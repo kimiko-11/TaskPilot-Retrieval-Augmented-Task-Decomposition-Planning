@@ -38,6 +38,4 @@ The system uses Hugging Face transformer models and prompt engineering to genera
 - Regular Expressions (for parsing output)
 - JSON (for structured output)
 
----
 
-## 🧱 System Pipeline
